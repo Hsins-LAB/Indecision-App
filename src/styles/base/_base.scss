@@ -1,0 +1,21 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: $dark-blue;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: $m-size;
+}
+
+button {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  letter-spacing: 2px;
+  border-radius: 20px;
+}
+
+button:disabled {
+  cursor: default;
+}
