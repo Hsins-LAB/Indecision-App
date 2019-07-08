@@ -1,4 +1,3 @@
-# udemy_Indecision-App
 <div align="right">
   <img src="https://img.shields.io/badge/Completion-100%25-blue.svg" />
   <a href="https://github.com/Hsins/udemy_Indecision-App/blob/master/LICENSE" alt="License">
