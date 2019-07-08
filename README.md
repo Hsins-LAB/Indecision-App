@@ -23,7 +23,7 @@ You can see a complete working example [here](https://hsins.github.io/udemy_Inde
 - Store data with browser's [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage).
 - Use Webpack to bundle JavaScript files.
 - Refactor the folder structure.
-- Update to using Webpack 4 instead Webpack 3
+- Update to using Webpack 4 instead  Webpack 3
 
 # Technologies
 
